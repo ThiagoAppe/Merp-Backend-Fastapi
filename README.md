@@ -4,7 +4,7 @@ Este repositorio contiene el backend del sistema MERP (Minimal ERP), desarrollad
 
 ## 📌 Características
 
-- API RESTful con documentación automática (Swagger y Redoc).
+- API RESTful
 - Autenticación con JWT.
 - Gestión de artículos, familias, tipos de artículo y usuarios.
 - Conexión con base de datos MySQL.
