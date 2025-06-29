@@ -1,2 +1,26 @@
-# Merp-Backend-Fastapi
-API REST para el sistema MERP (Minimal ERP), desarrollado con FastAPI y conectado a una base de datos MySQL. Este backend gestiona autenticación, artículos, familias, usuarios, y otros recursos del sistema ERP.
+# MERP Backend - FastAPI
+
+Este repositorio contiene el backend del sistema MERP (Minimal ERP), desarrollado con **FastAPI** y utilizando **MySQL** como base de datos.
+
+## 📌 Características
+
+- API RESTful con documentación automática (Swagger y Redoc).
+- Autenticación con JWT.
+- Gestión de artículos, familias, tipos de artículo y usuarios.
+- Conexión con base de datos MySQL.
+- Arquitectura modular y escalable.
+
+## 🚀 Requisitos
+
+- Python 3.11+
+- MySQL
+- `pip` o `poetry` para gestionar dependencias
+
+## 📦 Instalación
+
+```bash
+git clone https://github.com/tu-usuario/Merp-Backend-Fastapi.git
+cd Merp-Backend-Fastapi
+python -m venv venv
+source venv/bin/activate  # En Windows: venv\Scripts\activate
+pip install -r requirements.txt
