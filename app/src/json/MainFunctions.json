@@ -1,0 +1,147 @@
+[
+    {
+    "title": "Inventario",
+    "description": "Control de stock, almacenes y movimientos de materiales.",
+    "path": "/inventario",
+    "functions": [
+      "Consulta de Stock",
+      "Gestión de almacenes y ubicaciones",
+      "Ingresos y egresos de artículos",
+      "Movimientos y transferencias internas",
+      "Ajustes de inventario e inventarios físicos",
+      "Alertas por stock mínimo"
+    ]
+  },
+  {
+    "title": "Finanzas",
+    "description": "Control financiero, contabilidad y administración de pagos e ingresos.",
+    "path": "/finanzas",
+    "functions": [
+      "Gestión de cuentas por cobrar y pagar",
+      "Conciliación bancaria",
+      "Registro de gastos e ingresos",
+      "Contabilidad general",
+      "Reportes financieros y presupuestos"
+    ]
+  },
+  {
+    "title": "Compras",
+    "description": "Gestión de proveedores y del ciclo de adquisición de insumos y productos.",
+    "path": "/compras",
+    "functions": [
+      "Administración de proveedores",
+      "Emisión de órdenes de compra",
+      "Recepción de mercancías",
+      "Control de costos de compra",
+      "Historial de adquisiciones"
+    ]
+  },
+  {
+    "title": "Ventas",
+    "description": "Gestión del ciclo de ventas, clientes y facturación.",
+    "path": "/ventas",
+    "functions": [
+      "Registro de presupuestos y pedidos",
+      "Gestión de clientes y cuentas",
+      "Facturación de ventas",
+      "Seguimiento de postventa",
+      "Informes de rendimiento comercial"
+    ]
+  },
+    {
+    "title": "Producción",
+    "description": "Planificación y seguimiento de procesos productivos.",
+    "path": "/produccion",
+    "functions": [
+      "Órdenes de producción",
+      "Consumo de materias primas",
+      "Planificación de recursos de producción",
+      "Control de costos productivos",
+      "Reportes de eficiencia y rendimiento"
+    ]
+  },
+  {
+    "title": "Recursos Humanos",
+    "description": "Administración del personal, sueldos y asistencia.",
+    "path": "/recursos-humanos",
+    "functions": [
+      "Altas y bajas de empleados",
+      "Control de asistencia y licencias",
+      "Liquidación de sueldos",
+      "Capacitación y formación",
+      "Evaluaciones de desempeño"
+    ]
+  },
+  {
+    "title": "Logística",
+    "description": "Coordinación de transportes, entregas y gestión de almacenes.",
+    "path": "/logistica",
+    "functions": [
+      "Planificación de entregas",
+      "Seguimiento de envíos",
+      "Gestión de rutas de transporte",
+      "Control de recepción y despacho",
+      "Gestión de almacenes logísticos"
+    ]
+  },
+  {
+    "title": "Proyectos",
+    "description": "Planificación y control de proyectos internos o por cliente.",
+    "path": "/proyectos",
+    "functions": [
+      "Creación y seguimiento de proyectos",
+      "Asignación de tareas",
+      "Gestión de tiempos y recursos",
+      "Control de presupuestos por proyecto",
+      "Informes de avance"
+    ]
+  },
+  {
+    "title": "Mantenimiento",
+    "description": "Gestión de activos, mantenimiento preventivo y correctivo.",
+    "path": "/mantenimiento",
+    "functions": [
+      "Registro de activos y equipos",
+      "Planes de mantenimiento preventivo",
+      "Seguimiento de mantenimiento correctivo",
+      "Gestión de técnicos y asignaciones",
+      "Historial de intervenciones"
+    ]
+  },
+  {
+    "title": "CRM",
+    "description": "Relación con clientes y gestión de oportunidades comerciales.",
+    "path": "/crm",
+    "functions": [
+      "Gestión de contactos y cuentas",
+      "Seguimiento de oportunidades de venta",
+      "Registro de interacciones y reuniones",
+      "Automatización de tareas comerciales",
+      "Agenda comercial"
+    ]
+  },
+  {
+    "title": "Reportes",
+    "description": "Visualización de indicadores clave, gráficos y análisis de datos.",
+    "path": "/reportes",
+    "functions": [
+      "KPIs de todas las áreas",
+      "Gráficos y dashboards personalizados",
+      "Exportación de datos",
+      "Análisis comparativos",
+      "Reportes por usuario o equipo"
+    ]
+  },
+  {
+    "title": "Configuración",
+    "description": "Administración del sistema, usuarios y parámetros generales.",
+    "path": "/configuracion",
+    "functions": [
+      "Gestión de usuarios y permisos",
+      "Configuración de impuestos y monedas",
+      "Parámetros generales del sistema",
+      "Integración con otras plataformas",
+      "Control de seguridad y auditoría"
+    ]
+  }
+]

@@ -1,0 +1,1005 @@
+2025-06-15 17:14:25,337 - ERROR - auth - Token inválido
+2025-06-15 17:14:25,348 - ERROR - auth - Token inválido
+2025-06-15 17:14:36,164 - ERROR - auth - Token inválido
+2025-06-15 17:14:36,171 - ERROR - auth - Token inválido
+2025-06-15 17:24:29,943 - ERROR - auth - Token inválido
+2025-06-15 17:24:29,949 - ERROR - auth - Token inválido
+2025-06-15 17:24:33,901 - ERROR - auth - Token inválido
+2025-06-15 17:24:33,907 - ERROR - auth - Token inválido
+2025-06-15 17:25:31,857 - ERROR - auth - Token inválido
+2025-06-15 17:25:31,866 - ERROR - auth - Token inválido
+2025-06-15 17:25:37,614 - ERROR - auth - Token inválido
+2025-06-15 17:25:37,622 - ERROR - auth - Token inválido
+2025-06-15 17:25:40,791 - ERROR - auth - Token inválido
+2025-06-15 17:25:40,802 - ERROR - auth - Token inválido
+2025-06-15 17:26:24,831 - ERROR - auth - Token inválido
+2025-06-15 17:26:24,839 - ERROR - auth - Token inválido
+2025-06-15 17:26:36,414 - ERROR - auth - Token inválido
+2025-06-15 17:26:36,420 - ERROR - auth - Token inválido
+2025-06-15 17:26:40,523 - ERROR - auth - Token inválido
+2025-06-15 17:26:40,530 - ERROR - auth - Token inválido
+2025-06-15 18:16:11,843 - ERROR - auth - Token inválido
+2025-06-15 18:16:11,852 - ERROR - auth - Token inválido
+2025-06-15 18:18:57,087 - ERROR - auth - Token inválido
+2025-06-15 18:18:57,115 - ERROR - auth - Token inválido
+2025-06-15 18:19:25,645 - INFO - auth - Payload decodificado: {'sub': 'admin', 'exp': 1750024165}
+2025-06-15 18:19:25,681 - INFO - auth - Payload decodificado: {'sub': 'admin', 'exp': 1750024165}
+2025-06-15 19:02:41,084 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750024961, 'exp': 1750026761}
+2025-06-15 19:02:41,098 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750024961, 'exp': 1750026761}
+2025-06-15 19:04:43,825 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750025083, 'exp': 1750026883}
+2025-06-15 19:04:43,837 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750025083, 'exp': 1750026883}
+2025-06-15 19:06:26,182 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750025186, 'exp': 1750026986}
+2025-06-15 19:06:26,195 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750025186, 'exp': 1750026986}
+2025-06-15 19:06:40,829 - INFO - auth - Payload decodificado: {'id': 3, 'iat': 1750025200, 'exp': 1750027000}
+2025-06-15 19:06:40,840 - INFO - auth - Payload decodificado: {'id': 3, 'iat': 1750025200, 'exp': 1750027000}
+2025-06-15 19:06:48,637 - INFO - auth - Payload decodificado: {'id': 4, 'iat': 1750025208, 'exp': 1750027008}
+2025-06-15 19:06:48,650 - INFO - auth - Payload decodificado: {'id': 4, 'iat': 1750025208, 'exp': 1750027008}
+2025-06-15 19:07:00,193 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750025220, 'exp': 1750027020}
+2025-06-15 19:07:00,204 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750025220, 'exp': 1750027020}
+2025-06-15 19:14:27,017 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750025666, 'exp': 1750027466}
+2025-06-15 19:14:27,028 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750025666, 'exp': 1750027466}
+2025-06-15 19:20:43,594 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750026043, 'exp': 1750027843}
+2025-06-15 19:20:43,608 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750026043, 'exp': 1750027843}
+2025-06-15 19:23:08,697 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750026088, 'exp': 1750027888}
+2025-06-15 19:23:08,731 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750026088, 'exp': 1750027888}
+2025-06-15 19:26:59,293 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750026372, 'exp': 1750028172}
+2025-06-15 19:28:05,384 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750026088, 'exp': 1750027888}
+2025-06-15 19:28:05,407 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750026088, 'exp': 1750027888}
+2025-06-15 20:59:58,470 - WARNING - auth - Token expirado
+2025-06-15 20:59:58,482 - WARNING - auth - Token expirado
+2025-06-15 21:00:12,099 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:12,112 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:35,017 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:35,032 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:35,069 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:35,080 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:40,131 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:40,142 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:40,178 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:40,189 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:41,013 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:41,023 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:41,056 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:41,064 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:46,034 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:46,041 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:46,078 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:46,090 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:46,742 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:46,749 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:46,782 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:46,790 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:47,560 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:47,567 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:47,600 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:47,608 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:48,287 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:48,294 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:48,324 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:48,333 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:51,484 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:51,491 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:51,525 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:00:51,534 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:01:19,959 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:01:19,967 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:01:19,995 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:01:20,004 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:01:52,042 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:01:52,050 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:01:58,566 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:01:58,567 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:02:02,295 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:02:02,295 - INFO - auth - Payload decodificado: {'id': 2, 'iat': 1750032012, 'exp': 1750033812}
+2025-06-15 21:05:51,709 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750032313, 'exp': 1750034113}
+2025-06-15 21:05:51,721 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750032313, 'exp': 1750034113}
+2025-06-15 21:06:11,045 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750032313, 'exp': 1750034113}
+2025-06-15 21:06:11,061 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750032313, 'exp': 1750034113}
+2025-06-15 21:06:37,972 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750032313, 'exp': 1750034113}
+2025-06-15 21:06:37,982 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750032313, 'exp': 1750034113}
+2025-06-15 21:06:43,106 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750032313, 'exp': 1750034113}
+2025-06-15 21:06:43,116 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750032313, 'exp': 1750034113}
+2025-06-15 21:06:54,610 - ERROR - auth - Token inválido
+2025-06-15 21:06:54,618 - ERROR - auth - Token inválido
+2025-06-15 23:13:23,449 - ERROR - auth - Token inválido
+2025-06-15 23:13:23,473 - ERROR - auth - Token inválido
+2025-06-15 23:32:12,728 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750041132, 'exp': 1750042932}
+2025-06-15 23:32:12,742 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750041132, 'exp': 1750042932}
+2025-06-15 23:53:16,420 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750041132, 'exp': 1750042932}
+2025-06-15 23:53:16,429 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750041132, 'exp': 1750042932}
+2025-06-15 23:53:25,550 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750041132, 'exp': 1750042932}
+2025-06-15 23:53:25,565 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750041132, 'exp': 1750042932}
+2025-06-15 23:54:42,216 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750041132, 'exp': 1750042932}
+2025-06-15 23:54:42,226 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750041132, 'exp': 1750042932}
+2025-06-15 23:57:03,881 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750041132, 'exp': 1750042932}
+2025-06-15 23:57:03,892 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750041132, 'exp': 1750042932}
+2025-06-16 11:35:55,912 - WARNING - auth - Token expirado
+2025-06-16 11:35:55,926 - WARNING - auth - Token expirado
+2025-06-16 19:26:12,794 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750112767, 'exp': 1750114567}
+2025-06-16 19:26:13,891 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750112767, 'exp': 1750114567}
+2025-06-16 19:28:23,084 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750112767, 'exp': 1750114567}
+2025-06-16 19:28:23,093 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750112767, 'exp': 1750114567}
+2025-06-17 18:39:18,966 - WARNING - auth - Token expirado
+2025-06-17 18:39:19,029 - WARNING - auth - Token expirado
+2025-06-20 09:33:14,841 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750422762, 'exp': 1750424562}
+2025-06-20 09:33:14,999 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750422762, 'exp': 1750424562}
+2025-06-20 09:44:05,498 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750422762, 'exp': 1750424562}
+2025-06-20 09:44:05,510 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750422762, 'exp': 1750424562}
+2025-06-20 09:44:05,549 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750422762, 'exp': 1750424562}
+2025-06-20 09:44:05,559 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750422762, 'exp': 1750424562}
+2025-06-20 09:44:32,999 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750423472, 'exp': 1750425272}
+2025-06-20 09:44:33,012 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750423472, 'exp': 1750425272}
+2025-06-20 10:36:35,427 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750426447, 'exp': 1750428247}
+2025-06-20 10:36:35,437 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750426447, 'exp': 1750428247}
+2025-06-20 10:36:43,219 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750426447, 'exp': 1750428247}
+2025-06-20 10:36:43,227 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750426447, 'exp': 1750428247}
+2025-06-20 10:36:54,930 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750426447, 'exp': 1750428247}
+2025-06-20 10:36:54,945 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750426447, 'exp': 1750428247}
+2025-06-20 10:42:52,428 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750426447, 'exp': 1750428247}
+2025-06-20 10:42:52,469 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750426447, 'exp': 1750428247}
+2025-06-20 10:42:52,478 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750426447, 'exp': 1750428247}
+2025-06-20 10:42:54,036 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750426447, 'exp': 1750428247}
+2025-06-20 10:42:54,045 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750426447, 'exp': 1750428247}
+2025-06-20 10:42:54,054 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750426447, 'exp': 1750428247}
+2025-06-20 10:45:35,832 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750426447, 'exp': 1750428247}
+2025-06-20 10:45:35,844 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750426447, 'exp': 1750428247}
+2025-06-20 10:45:35,856 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750426447, 'exp': 1750428247}
+2025-06-20 10:48:41,243 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 10:48:41,257 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 10:49:46,566 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 10:49:46,583 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 10:54:07,070 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 10:54:07,083 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 10:57:26,757 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 10:57:26,769 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 11:03:49,936 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 11:03:49,948 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 11:04:09,152 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 11:04:09,160 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 11:04:09,203 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 11:04:09,217 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 11:08:19,107 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 11:08:19,117 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 11:08:21,314 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 11:08:21,325 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 11:08:24,958 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 11:08:24,970 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750427308, 'exp': 1750429108}
+2025-06-20 11:18:58,631 - WARNING - auth - Token expirado
+2025-06-20 11:18:58,644 - WARNING - auth - Token expirado
+2025-06-20 11:21:01,656 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:21:01,669 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:23:20,949 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:23:20,962 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:24:15,692 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:24:15,702 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:26:27,937 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:26:27,944 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:27:15,351 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:27:15,364 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:31:13,988 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:31:14,001 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:31:37,994 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:31:38,005 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:31:39,983 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:31:39,993 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:34:47,597 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:34:47,606 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:35:00,720 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:35:00,728 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:35:00,772 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:35:00,782 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750429143, 'exp': 1750430943}
+2025-06-20 11:37:04,641 - ERROR - auth - Token inválido
+2025-06-20 11:37:04,650 - ERROR - auth - Token inválido
+2025-06-20 11:37:38,451 - ERROR - auth - Token inválido
+2025-06-20 11:37:38,460 - ERROR - auth - Token inválido
+2025-06-20 11:37:40,595 - ERROR - auth - Token inválido
+2025-06-20 11:37:40,603 - ERROR - auth - Token inválido
+2025-06-20 11:37:57,131 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750430272, 'exp': 1750432072}
+2025-06-20 11:37:57,148 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750430272, 'exp': 1750432072}
+2025-06-20 11:38:32,712 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750430272, 'exp': 1750432072}
+2025-06-20 11:38:32,724 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750430272, 'exp': 1750432072}
+2025-06-20 11:38:32,759 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750430272, 'exp': 1750432072}
+2025-06-20 11:38:32,768 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750430272, 'exp': 1750432072}
+2025-06-20 12:06:11,812 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750430272, 'exp': 1750432072}
+2025-06-20 12:06:11,819 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750430272, 'exp': 1750432072}
+2025-06-20 12:06:24,347 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750430272, 'exp': 1750432072}
+2025-06-20 12:06:24,355 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750430272, 'exp': 1750432072}
+2025-06-20 12:06:31,541 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750430272, 'exp': 1750432072}
+2025-06-20 12:06:31,548 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750430272, 'exp': 1750432072}
+2025-06-20 12:08:32,248 - WARNING - auth - Token expirado
+2025-06-20 12:08:32,258 - WARNING - auth - Token expirado
+2025-06-20 12:08:40,334 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750432115, 'exp': 1750433915}
+2025-06-20 12:08:40,347 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750432115, 'exp': 1750433915}
+2025-06-20 15:05:11,916 - WARNING - auth - Token expirado
+2025-06-20 15:05:11,927 - WARNING - auth - Token expirado
+2025-06-20 15:07:20,932 - WARNING - auth - Token expirado
+2025-06-20 15:07:20,943 - WARNING - auth - Token expirado
+2025-06-20 15:07:35,549 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750442855, 'exp': 1750444655}
+2025-06-20 15:07:35,562 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750442855, 'exp': 1750444655}
+2025-06-20 15:07:58,020 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750442855, 'exp': 1750444655}
+2025-06-20 15:07:58,030 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750442855, 'exp': 1750444655}
+2025-06-20 15:10:55,524 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750443024, 'exp': 1750444824}
+2025-06-20 15:13:02,303 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750443024, 'exp': 1750444824}
+2025-06-20 15:13:09,243 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750443024, 'exp': 1750444824}
+2025-06-20 15:26:54,810 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750442855, 'exp': 1750444655}
+2025-06-20 15:26:54,837 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750442855, 'exp': 1750444655}
+2025-06-20 15:27:00,646 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750443024, 'exp': 1750444824}
+2025-06-20 15:45:24,306 - WARNING - auth - Token expirado
+2025-06-20 15:45:35,837 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750445129, 'exp': 1750446929}
+2025-06-20 15:46:22,556 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750445129, 'exp': 1750446929}
+2025-06-20 15:47:11,090 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750445129, 'exp': 1750446929}
+2025-06-20 15:55:13,017 - WARNING - auth - Token expirado
+2025-06-20 16:05:33,595 - WARNING - auth - Token expirado
+2025-06-20 16:05:47,150 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750446339, 'exp': 1750448139}
+2025-06-20 16:06:20,231 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750446339, 'exp': 1750448139}
+2025-06-20 16:10:38,721 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750446339, 'exp': 1750448139}
+2025-06-20 16:10:38,722 - WARNING - GeneralFunctions - Archivo MainFunctions.json no encontrado
+2025-06-20 16:11:39,444 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750446339, 'exp': 1750448139}
+2025-06-20 16:11:39,445 - WARNING - GeneralFunctions - Archivo MainFunctions.json no encontrado
+2025-06-20 16:12:58,812 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750446339, 'exp': 1750448139}
+2025-06-20 16:12:58,813 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 16:15:48,219 - WARNING - auth - Token expirado
+2025-06-20 16:15:48,232 - WARNING - auth - Token expirado
+2025-06-20 16:15:51,645 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750446951, 'exp': 1750448751}
+2025-06-20 16:15:51,660 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750446951, 'exp': 1750448751}
+2025-06-20 16:16:00,550 - INFO - auth - Payload decodificado: {'id': 1, 'iat': 1750446339, 'exp': 1750448139}
+2025-06-20 16:16:00,551 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 16:52:24,975 - WARNING - auth - Token expirado
+2025-06-20 16:52:46,403 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a741140d-6c5f-4080-a44a-71e98359ada0', 'iat': 1750449149, 'exp': 1750450949}
+2025-06-20 16:52:46,406 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 16:52:57,734 - WARNING - auth - Token expirado
+2025-06-20 16:52:57,745 - WARNING - auth - Token expirado
+2025-06-20 16:53:03,685 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'f573de7e-a110-4403-aa71-15d0fe0d8fef', 'iat': 1750449183, 'exp': 1750450983}
+2025-06-20 16:53:03,699 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'f573de7e-a110-4403-aa71-15d0fe0d8fef', 'iat': 1750449183, 'exp': 1750450983}
+2025-06-20 16:53:08,354 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a741140d-6c5f-4080-a44a-71e98359ada0', 'iat': 1750449149, 'exp': 1750450949}
+2025-06-20 16:53:08,356 - WARNING - auth - Token reemplazado o inválido
+2025-06-20 19:56:22,255 - WARNING - auth - Token expirado
+2025-06-20 19:56:22,267 - WARNING - auth - Token expirado
+2025-06-20 19:56:43,078 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69722a69-480a-412d-a718-4d2b914ca344', 'iat': 1750460187, 'exp': 1750461987}
+2025-06-20 19:56:43,095 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69722a69-480a-412d-a718-4d2b914ca344', 'iat': 1750460187, 'exp': 1750461987}
+2025-06-20 19:56:43,158 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69722a69-480a-412d-a718-4d2b914ca344', 'iat': 1750460187, 'exp': 1750461987}
+2025-06-20 19:56:43,167 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69722a69-480a-412d-a718-4d2b914ca344', 'iat': 1750460187, 'exp': 1750461987}
+2025-06-20 19:56:43,208 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69722a69-480a-412d-a718-4d2b914ca344', 'iat': 1750460187, 'exp': 1750461987}
+2025-06-20 19:56:43,221 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69722a69-480a-412d-a718-4d2b914ca344', 'iat': 1750460187, 'exp': 1750461987}
+2025-06-20 19:56:45,811 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69722a69-480a-412d-a718-4d2b914ca344', 'iat': 1750460187, 'exp': 1750461987}
+2025-06-20 19:56:45,821 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69722a69-480a-412d-a718-4d2b914ca344', 'iat': 1750460187, 'exp': 1750461987}
+2025-06-20 22:50:25,207 - WARNING - auth - Token expirado
+2025-06-20 22:50:25,220 - WARNING - auth - Token expirado
+2025-06-20 22:50:29,661 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5885df7b-852f-47b3-8ff5-35a3b03df2c4', 'iat': 1750470629, 'exp': 1750472429}
+2025-06-20 22:50:29,674 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5885df7b-852f-47b3-8ff5-35a3b03df2c4', 'iat': 1750470629, 'exp': 1750472429}
+2025-06-20 22:50:33,207 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5885df7b-852f-47b3-8ff5-35a3b03df2c4', 'iat': 1750470629, 'exp': 1750472429}
+2025-06-20 22:50:33,216 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5885df7b-852f-47b3-8ff5-35a3b03df2c4', 'iat': 1750470629, 'exp': 1750472429}
+2025-06-20 23:04:19,012 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5885df7b-852f-47b3-8ff5-35a3b03df2c4', 'iat': 1750470629, 'exp': 1750472429}
+2025-06-20 23:04:19,026 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5885df7b-852f-47b3-8ff5-35a3b03df2c4', 'iat': 1750470629, 'exp': 1750472429}
+2025-06-20 23:05:17,992 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5885df7b-852f-47b3-8ff5-35a3b03df2c4', 'iat': 1750470629, 'exp': 1750472429}
+2025-06-20 23:05:18,001 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5885df7b-852f-47b3-8ff5-35a3b03df2c4', 'iat': 1750470629, 'exp': 1750472429}
+2025-06-20 23:06:04,158 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5885df7b-852f-47b3-8ff5-35a3b03df2c4', 'iat': 1750470629, 'exp': 1750472429}
+2025-06-20 23:06:04,166 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5885df7b-852f-47b3-8ff5-35a3b03df2c4', 'iat': 1750470629, 'exp': 1750472429}
+2025-06-20 23:07:30,010 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5885df7b-852f-47b3-8ff5-35a3b03df2c4', 'iat': 1750470629, 'exp': 1750472429}
+2025-06-20 23:07:30,022 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5885df7b-852f-47b3-8ff5-35a3b03df2c4', 'iat': 1750470629, 'exp': 1750472429}
+2025-06-20 23:07:30,056 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5885df7b-852f-47b3-8ff5-35a3b03df2c4', 'iat': 1750470629, 'exp': 1750472429}
+2025-06-20 23:07:30,068 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:07:30,079 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5885df7b-852f-47b3-8ff5-35a3b03df2c4', 'iat': 1750470629, 'exp': 1750472429}
+2025-06-20 23:07:30,082 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:07:40,059 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:07:40,061 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:07:40,073 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:07:40,075 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:13:36,048 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:13:36,061 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:15:14,845 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:15:14,860 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:15:14,888 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:15:14,897 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:15:34,980 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:15:34,982 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:15:34,990 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:15:34,993 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:16:04,889 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:04,901 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:04,932 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:04,935 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:16:04,944 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:04,948 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:16:07,985 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:07,995 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:08,019 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:08,021 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:16:08,029 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:08,032 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:16:09,070 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:09,079 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:09,105 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:09,109 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:16:09,117 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:09,119 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:16:09,765 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:09,775 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:09,799 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:09,801 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:16:09,809 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:09,812 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:16:10,391 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:10,401 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:10,429 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:10,431 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:16:10,440 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:10,443 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:16:11,002 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:11,013 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:11,039 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:11,041 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:16:11,049 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:11,052 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:16:11,624 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:11,633 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:11,657 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:11,660 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:16:11,668 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:11,671 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:16:30,227 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:32,262 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:32,280 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:32,282 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:16:34,320 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:34,322 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:16:47,412 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:48,649 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:48,651 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:16:49,454 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:50,668 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:16:50,671 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:18:27,317 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:18:27,320 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:18:29,343 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:18:29,346 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:18:42,094 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:18:44,139 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:18:49,472 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:18:49,475 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:18:51,516 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:18:51,518 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:21:18,457 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:21:20,499 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '302217e0-1b3b-4c01-987e-22bb8dc9e5a4', 'iat': 1750471660, 'exp': 1750473460}
+2025-06-20 23:38:23,257 - WARNING - auth - Token expirado
+2025-06-20 23:38:23,267 - WARNING - auth - Token expirado
+2025-06-20 23:40:48,935 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:40:48,948 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:40:53,655 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:40:53,667 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:41:06,587 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:41:06,596 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:41:27,454 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:41:27,469 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:41:27,497 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:41:27,500 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-20 23:41:27,568 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:41:27,571 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-20 23:41:27,583 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:41:27,586 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-20 23:45:04,434 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:45:04,436 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:45:04,448 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:45:04,450 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:45:05,220 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:45:05,227 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-20 23:45:05,237 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:45:05,240 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-20 23:47:24,960 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:47:24,969 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:47:24,984 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:47:24,987 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-20 23:47:24,994 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:47:24,996 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-20 23:47:34,930 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:47:34,943 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:47:34,969 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:47:34,972 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-20 23:47:34,981 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:47:34,983 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-20 23:48:14,020 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:48:14,030 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:48:14,050 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:48:14,055 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-20 23:48:14,068 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:48:14,071 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-20 23:49:17,103 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:49:17,119 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:49:20,074 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:49:20,082 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:49:21,521 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:49:21,530 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:49:22,376 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:49:22,385 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:49:23,228 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:49:23,238 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:49:23,986 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:49:23,996 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:49:24,833 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:49:24,841 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:59:44,951 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:59:44,953 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:59:44,962 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:59:44,964 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-20 23:59:53,878 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:59:53,880 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-20 23:59:53,888 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-20 23:59:53,891 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:00:40,678 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-21 00:00:40,680 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:00:40,690 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-21 00:00:40,692 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:00:41,246 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-21 00:00:41,252 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:00:41,272 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-21 00:00:41,276 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:01:14,517 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-21 00:01:14,528 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-21 00:07:07,136 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-21 00:07:07,144 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-21 00:08:00,838 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-21 00:08:00,850 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-21 00:08:03,520 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-21 00:08:03,529 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ea315867-2907-4c83-b607-c859ddb00b5c', 'iat': 1750473507, 'exp': 1750475307}
+2025-06-21 00:09:27,753 - WARNING - auth - Token expirado
+2025-06-21 00:09:27,765 - WARNING - auth - Token expirado
+2025-06-21 00:09:31,521 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:09:31,524 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:09:31,536 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:09:31,539 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:09:33,645 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:09:33,647 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:09:33,659 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:09:33,661 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:11:21,495 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:11:21,497 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:11:21,506 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:11:21,509 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:11:22,388 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:11:22,391 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:11:22,398 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:11:22,401 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:12:03,952 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:12:03,954 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:12:03,962 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:12:03,965 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:12:04,879 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:12:04,882 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:12:04,889 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:12:04,891 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:12:10,792 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:12:10,794 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:12:10,803 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:12:10,806 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:12:12,248 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:12:12,251 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:12:12,258 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:12:12,260 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:13:17,444 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:13:17,446 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:13:17,456 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:13:17,459 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:13:18,156 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:13:18,164 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:13:18,175 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:13:18,178 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:13:19,007 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:13:19,021 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:13:33,121 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:13:33,123 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:13:33,132 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:13:33,135 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:13:33,896 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:13:33,903 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:13:33,914 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:13:33,916 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:13:34,629 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:13:34,638 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:13:36,933 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:13:36,942 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:15:01,504 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:15:01,513 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:15:08,021 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:15:08,030 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:15:17,153 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:15:17,155 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:15:17,164 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:15:17,166 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:15:20,138 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:15:20,141 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:15:20,149 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:15:20,151 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:15:22,543 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:15:22,553 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:21:53,331 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:21:53,342 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:08,659 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:08,675 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:11,578 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:11,581 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:29:11,588 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:11,591 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:29:12,524 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:12,526 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:29:12,537 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:12,540 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:29:13,367 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:13,376 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:18,042 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:18,052 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:18,085 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:18,089 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:29:18,097 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:18,100 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:29:18,110 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:18,120 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:20,640 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:20,643 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:29:20,650 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:20,653 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:29:21,312 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:21,315 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:29:21,322 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:21,324 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:29:23,124 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:29:23,134 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:35:50,347 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:35:50,350 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:35:50,358 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:35:50,361 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-21 00:35:50,924 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:35:50,927 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:35:50,937 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec6189fb-fd9b-431d-a86b-27c41460fa19', 'iat': 1750475371, 'exp': 1750477171}
+2025-06-21 00:35:50,939 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:47:05,208 - WARNING - auth - Token expirado
+2025-06-21 00:47:05,221 - WARNING - auth - Token expirado
+2025-06-21 00:47:09,116 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b95dcf81-dc54-47de-b381-d76fb859da5b', 'iat': 1750477629, 'exp': 1750479429}
+2025-06-21 00:47:09,118 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:47:09,128 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b95dcf81-dc54-47de-b381-d76fb859da5b', 'iat': 1750477629, 'exp': 1750479429}
+2025-06-21 00:47:09,130 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:47:34,128 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b95dcf81-dc54-47de-b381-d76fb859da5b', 'iat': 1750477629, 'exp': 1750479429}
+2025-06-21 00:47:34,139 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b95dcf81-dc54-47de-b381-d76fb859da5b', 'iat': 1750477629, 'exp': 1750479429}
+2025-06-21 00:47:34,153 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b95dcf81-dc54-47de-b381-d76fb859da5b', 'iat': 1750477629, 'exp': 1750479429}
+2025-06-21 00:47:34,156 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 00:47:34,162 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b95dcf81-dc54-47de-b381-d76fb859da5b', 'iat': 1750477629, 'exp': 1750479429}
+2025-06-21 00:47:34,165 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-21 13:47:49,546 - WARNING - auth - Token expirado
+2025-06-21 13:47:49,568 - WARNING - auth - Token expirado
+2025-06-22 05:19:30,456 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'bded564f-5036-479b-9965-34116bdad667', 'iat': 1750580370, 'exp': 1750582170}
+2025-06-22 05:19:30,529 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:19:30,561 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'bded564f-5036-479b-9965-34116bdad667', 'iat': 1750580370, 'exp': 1750582170}
+2025-06-22 05:19:30,564 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:19:42,676 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'bded564f-5036-479b-9965-34116bdad667', 'iat': 1750580370, 'exp': 1750582170}
+2025-06-22 05:19:42,680 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:19:42,698 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'bded564f-5036-479b-9965-34116bdad667', 'iat': 1750580370, 'exp': 1750582170}
+2025-06-22 05:19:42,700 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:19:51,120 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'bded564f-5036-479b-9965-34116bdad667', 'iat': 1750580370, 'exp': 1750582170}
+2025-06-22 05:19:51,124 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:19:51,136 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'bded564f-5036-479b-9965-34116bdad667', 'iat': 1750580370, 'exp': 1750582170}
+2025-06-22 05:19:51,139 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:19:51,969 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'bded564f-5036-479b-9965-34116bdad667', 'iat': 1750580370, 'exp': 1750582170}
+2025-06-22 05:19:51,971 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:19:51,979 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'bded564f-5036-479b-9965-34116bdad667', 'iat': 1750580370, 'exp': 1750582170}
+2025-06-22 05:19:51,982 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:19:54,571 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'bded564f-5036-479b-9965-34116bdad667', 'iat': 1750580370, 'exp': 1750582170}
+2025-06-22 05:19:54,574 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:19:54,583 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'bded564f-5036-479b-9965-34116bdad667', 'iat': 1750580370, 'exp': 1750582170}
+2025-06-22 05:19:54,586 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:19:55,212 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'bded564f-5036-479b-9965-34116bdad667', 'iat': 1750580370, 'exp': 1750582170}
+2025-06-22 05:19:55,215 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:19:55,223 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'bded564f-5036-479b-9965-34116bdad667', 'iat': 1750580370, 'exp': 1750582170}
+2025-06-22 05:19:55,226 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:26:09,872 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:26:09,875 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:26:09,883 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:26:09,885 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:26:12,704 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:26:12,707 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:26:12,716 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:26:12,719 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:26:13,725 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:26:13,728 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:26:13,734 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:26:13,737 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:26:16,950 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:26:16,953 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:26:16,963 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:26:16,966 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:28:31,038 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:31,040 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:28:31,048 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:31,051 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:28:32,992 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:32,994 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:28:33,001 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:33,004 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:28:35,326 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:35,328 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:28:35,335 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:35,339 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:28:38,382 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:38,385 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:28:38,393 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:38,396 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:28:39,745 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:39,749 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:28:39,757 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:39,760 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:28:40,740 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:40,743 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:28:40,750 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:40,754 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:28:52,012 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:52,016 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:28:52,593 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:52,596 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:28:53,373 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:53,376 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:28:53,944 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:53,946 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:28:54,642 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:54,645 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:28:55,226 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:55,229 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:28:55,608 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:55,610 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:28:56,197 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:56,200 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:28:56,613 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:56,616 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:28:57,196 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:57,199 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:28:57,521 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:57,523 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:28:58,084 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:58,086 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:28:58,540 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:58,543 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:28:59,130 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:59,133 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:28:59,603 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:28:59,606 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:29:00,196 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:29:00,199 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:29:01,033 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:29:01,036 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:29:01,621 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:29:01,624 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:29:33,512 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:29:33,514 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:29:34,102 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:29:34,104 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:30:00,855 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:30:00,857 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:30:00,864 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'a4d96798-3f69-4bea-9172-9f9427c8a1cf', 'iat': 1750580769, 'exp': 1750582569}
+2025-06-22 05:30:00,867 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:55:35,352 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '3aacf705-af8c-467e-a5e5-5dd3fbe17729', 'iat': 1750582535, 'exp': 1750584335}
+2025-06-22 05:55:35,355 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:55:35,365 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '3aacf705-af8c-467e-a5e5-5dd3fbe17729', 'iat': 1750582535, 'exp': 1750584335}
+2025-06-22 05:55:35,368 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:55:42,449 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '3aacf705-af8c-467e-a5e5-5dd3fbe17729', 'iat': 1750582535, 'exp': 1750584335}
+2025-06-22 05:55:42,451 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:55:42,462 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '3aacf705-af8c-467e-a5e5-5dd3fbe17729', 'iat': 1750582535, 'exp': 1750584335}
+2025-06-22 05:55:42,465 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 05:55:43,333 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '3aacf705-af8c-467e-a5e5-5dd3fbe17729', 'iat': 1750582535, 'exp': 1750584335}
+2025-06-22 05:55:43,336 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 05:55:43,345 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '3aacf705-af8c-467e-a5e5-5dd3fbe17729', 'iat': 1750582535, 'exp': 1750584335}
+2025-06-22 05:55:43,348 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 06:34:49,942 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5e1627fe-f4c1-4e87-8646-c1c8f691f400', 'iat': 1750584889, 'exp': 1750586689}
+2025-06-22 06:34:49,963 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 06:34:49,985 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5e1627fe-f4c1-4e87-8646-c1c8f691f400', 'iat': 1750584889, 'exp': 1750586689}
+2025-06-22 06:34:49,988 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 06:35:12,056 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5e1627fe-f4c1-4e87-8646-c1c8f691f400', 'iat': 1750584889, 'exp': 1750586689}
+2025-06-22 06:35:12,060 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 06:35:12,070 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5e1627fe-f4c1-4e87-8646-c1c8f691f400', 'iat': 1750584889, 'exp': 1750586689}
+2025-06-22 06:35:12,073 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 06:37:04,750 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0bd63ec5-8a0a-4236-aecb-ab1982e40953', 'iat': 1750585024, 'exp': 1750586824}
+2025-06-22 06:37:04,753 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 06:37:04,761 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0bd63ec5-8a0a-4236-aecb-ab1982e40953', 'iat': 1750585024, 'exp': 1750586824}
+2025-06-22 06:37:04,763 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 06:39:21,902 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0bd63ec5-8a0a-4236-aecb-ab1982e40953', 'iat': 1750585024, 'exp': 1750586824}
+2025-06-22 06:39:21,903 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0bd63ec5-8a0a-4236-aecb-ab1982e40953', 'iat': 1750585024, 'exp': 1750586824}
+2025-06-22 06:39:21,919 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0bd63ec5-8a0a-4236-aecb-ab1982e40953', 'iat': 1750585024, 'exp': 1750586824}
+2025-06-22 06:39:21,925 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0bd63ec5-8a0a-4236-aecb-ab1982e40953', 'iat': 1750585024, 'exp': 1750586824}
+2025-06-22 06:39:42,000 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:39:42,003 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 06:39:42,011 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:39:42,014 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 06:39:44,160 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:39:44,160 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:39:44,170 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:39:44,174 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:41:48,867 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:41:48,868 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:41:48,868 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:41:48,906 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:41:48,911 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:41:48,914 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:42:06,550 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:42:06,553 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 06:42:06,563 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:42:06,567 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 06:42:08,214 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:42:08,217 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 06:42:08,225 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:42:08,227 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 06:42:10,438 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:42:10,438 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:42:10,438 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:42:10,453 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:42:10,453 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 06:42:10,453 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4a0115f3-7500-4202-85dd-8dcab6736ba0', 'iat': 1750585181, 'exp': 1750586981}
+2025-06-22 15:25:37,926 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec71c9b3-02a0-4353-aee4-a7042c83dcfa', 'iat': 1750616737, 'exp': 1750618537}
+2025-06-22 15:25:37,981 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 15:25:38,006 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'ec71c9b3-02a0-4353-aee4-a7042c83dcfa', 'iat': 1750616737, 'exp': 1750618537}
+2025-06-22 15:25:38,009 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 15:42:32,797 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '24a137c5-d74d-4c12-bb35-444453e5e16c', 'iat': 1750617752, 'exp': 1750619552}
+2025-06-22 15:42:32,800 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 15:42:32,806 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '24a137c5-d74d-4c12-bb35-444453e5e16c', 'iat': 1750617752, 'exp': 1750619552}
+2025-06-22 15:42:32,809 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 15:43:47,730 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '136b4b99-4e4b-433e-a4a9-78ed0ab0fe32', 'iat': 1750617827, 'exp': 1750619627}
+2025-06-22 15:43:47,733 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 15:43:47,739 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '136b4b99-4e4b-433e-a4a9-78ed0ab0fe32', 'iat': 1750617827, 'exp': 1750619627}
+2025-06-22 15:43:47,741 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 15:44:32,342 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '136b4b99-4e4b-433e-a4a9-78ed0ab0fe32', 'iat': 1750617827, 'exp': 1750619627}
+2025-06-22 15:44:32,343 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '136b4b99-4e4b-433e-a4a9-78ed0ab0fe32', 'iat': 1750617827, 'exp': 1750619627}
+2025-06-22 15:44:32,343 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '136b4b99-4e4b-433e-a4a9-78ed0ab0fe32', 'iat': 1750617827, 'exp': 1750619627}
+2025-06-22 15:44:32,357 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '136b4b99-4e4b-433e-a4a9-78ed0ab0fe32', 'iat': 1750617827, 'exp': 1750619627}
+2025-06-22 15:44:32,360 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '136b4b99-4e4b-433e-a4a9-78ed0ab0fe32', 'iat': 1750617827, 'exp': 1750619627}
+2025-06-22 15:44:32,360 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '136b4b99-4e4b-433e-a4a9-78ed0ab0fe32', 'iat': 1750617827, 'exp': 1750619627}
+2025-06-22 15:58:13,154 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '49250506-e5be-42cb-b5cd-c44de0e76d5b', 'iat': 1750618693, 'exp': 1750620493}
+2025-06-22 15:58:13,156 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 15:58:13,162 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '49250506-e5be-42cb-b5cd-c44de0e76d5b', 'iat': 1750618693, 'exp': 1750620493}
+2025-06-22 15:58:13,165 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 15:58:15,303 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '49250506-e5be-42cb-b5cd-c44de0e76d5b', 'iat': 1750618693, 'exp': 1750620493}
+2025-06-22 15:58:15,303 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '49250506-e5be-42cb-b5cd-c44de0e76d5b', 'iat': 1750618693, 'exp': 1750620493}
+2025-06-22 15:58:15,316 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '49250506-e5be-42cb-b5cd-c44de0e76d5b', 'iat': 1750618693, 'exp': 1750620493}
+2025-06-22 15:58:15,317 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '49250506-e5be-42cb-b5cd-c44de0e76d5b', 'iat': 1750618693, 'exp': 1750620493}
+2025-06-22 15:58:15,328 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '49250506-e5be-42cb-b5cd-c44de0e76d5b', 'iat': 1750618693, 'exp': 1750620493}
+2025-06-22 15:58:15,329 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '49250506-e5be-42cb-b5cd-c44de0e76d5b', 'iat': 1750618693, 'exp': 1750620493}
+2025-06-22 15:58:29,791 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5d914eaa-1a4b-466f-a414-464364a04625', 'iat': 1750618709, 'exp': 1750620509}
+2025-06-22 15:58:29,794 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 15:58:29,801 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5d914eaa-1a4b-466f-a414-464364a04625', 'iat': 1750618709, 'exp': 1750620509}
+2025-06-22 15:58:29,803 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 15:58:32,182 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5d914eaa-1a4b-466f-a414-464364a04625', 'iat': 1750618709, 'exp': 1750620509}
+2025-06-22 15:58:32,182 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5d914eaa-1a4b-466f-a414-464364a04625', 'iat': 1750618709, 'exp': 1750620509}
+2025-06-22 15:58:32,182 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5d914eaa-1a4b-466f-a414-464364a04625', 'iat': 1750618709, 'exp': 1750620509}
+2025-06-22 15:58:32,196 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5d914eaa-1a4b-466f-a414-464364a04625', 'iat': 1750618709, 'exp': 1750620509}
+2025-06-22 15:58:32,196 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5d914eaa-1a4b-466f-a414-464364a04625', 'iat': 1750618709, 'exp': 1750620509}
+2025-06-22 15:58:32,196 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '5d914eaa-1a4b-466f-a414-464364a04625', 'iat': 1750618709, 'exp': 1750620509}
+2025-06-22 15:59:27,305 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '7edb8d87-15fe-4774-8359-95c4e72dcd0b', 'iat': 1750618767, 'exp': 1750620567}
+2025-06-22 15:59:27,308 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 15:59:27,315 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '7edb8d87-15fe-4774-8359-95c4e72dcd0b', 'iat': 1750618767, 'exp': 1750620567}
+2025-06-22 15:59:27,317 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 15:59:57,149 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '02d8db8f-3a25-4aa2-a4e3-c008e2c148dd', 'iat': 1750618797, 'exp': 1750620597}
+2025-06-22 15:59:57,151 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 15:59:57,158 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '02d8db8f-3a25-4aa2-a4e3-c008e2c148dd', 'iat': 1750618797, 'exp': 1750620597}
+2025-06-22 15:59:57,160 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 16:01:09,015 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:01:09,018 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 16:01:09,024 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:01:09,027 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 16:01:10,941 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:01:10,941 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:01:10,942 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:01:10,956 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:01:10,956 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:01:10,956 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:02:17,968 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:02:17,969 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:02:17,969 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:02:17,981 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:02:17,981 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:02:17,982 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:03:35,145 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:03:35,145 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:03:35,146 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:03:35,158 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:03:35,158 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:03:35,159 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '4039b47f-3e74-4fdb-ba4f-360f8c9e505d', 'iat': 1750618868, 'exp': 1750620668}
+2025-06-22 16:55:08,902 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '37a793a6-9cb9-4e70-95b6-5eefe38aa5c6', 'iat': 1750622108, 'exp': 1750623908}
+2025-06-22 16:55:09,211 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 16:55:09,223 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '37a793a6-9cb9-4e70-95b6-5eefe38aa5c6', 'iat': 1750622108, 'exp': 1750623908}
+2025-06-22 16:55:09,226 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 16:55:11,327 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '37a793a6-9cb9-4e70-95b6-5eefe38aa5c6', 'iat': 1750622108, 'exp': 1750623908}
+2025-06-22 16:55:11,330 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 16:55:11,338 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '37a793a6-9cb9-4e70-95b6-5eefe38aa5c6', 'iat': 1750622108, 'exp': 1750623908}
+2025-06-22 16:55:11,342 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 17:06:34,944 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '9b7bf521-85a1-48e4-9322-796cb88b7d9d', 'iat': 1750622794, 'exp': 1750624594}
+2025-06-22 17:06:34,947 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 17:06:34,955 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '9b7bf521-85a1-48e4-9322-796cb88b7d9d', 'iat': 1750622794, 'exp': 1750624594}
+2025-06-22 17:06:34,957 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 17:11:19,703 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2cd8744d-88e3-44a4-a238-88c9a18b6d2a', 'iat': 1750623079, 'exp': 1750624879}
+2025-06-22 17:11:19,706 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 17:11:19,713 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2cd8744d-88e3-44a4-a238-88c9a18b6d2a', 'iat': 1750623079, 'exp': 1750624879}
+2025-06-22 17:11:19,716 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 17:12:32,908 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69546299-ed5d-4ba5-8bbe-1e5606121d74', 'iat': 1750623152, 'exp': 1750624952}
+2025-06-22 17:12:32,911 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 17:12:32,918 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69546299-ed5d-4ba5-8bbe-1e5606121d74', 'iat': 1750623152, 'exp': 1750624952}
+2025-06-22 17:12:32,921 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 17:17:10,189 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69546299-ed5d-4ba5-8bbe-1e5606121d74', 'iat': 1750623152, 'exp': 1750624952}
+2025-06-22 17:17:10,190 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69546299-ed5d-4ba5-8bbe-1e5606121d74', 'iat': 1750623152, 'exp': 1750624952}
+2025-06-22 17:17:10,190 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69546299-ed5d-4ba5-8bbe-1e5606121d74', 'iat': 1750623152, 'exp': 1750624952}
+2025-06-22 17:17:10,205 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69546299-ed5d-4ba5-8bbe-1e5606121d74', 'iat': 1750623152, 'exp': 1750624952}
+2025-06-22 17:17:10,205 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69546299-ed5d-4ba5-8bbe-1e5606121d74', 'iat': 1750623152, 'exp': 1750624952}
+2025-06-22 17:17:10,205 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69546299-ed5d-4ba5-8bbe-1e5606121d74', 'iat': 1750623152, 'exp': 1750624952}
+2025-06-22 17:17:13,014 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69546299-ed5d-4ba5-8bbe-1e5606121d74', 'iat': 1750623152, 'exp': 1750624952}
+2025-06-22 17:17:13,018 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 17:17:13,027 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69546299-ed5d-4ba5-8bbe-1e5606121d74', 'iat': 1750623152, 'exp': 1750624952}
+2025-06-22 17:17:13,030 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 17:17:13,681 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69546299-ed5d-4ba5-8bbe-1e5606121d74', 'iat': 1750623152, 'exp': 1750624952}
+2025-06-22 17:17:13,684 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 17:17:13,691 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '69546299-ed5d-4ba5-8bbe-1e5606121d74', 'iat': 1750623152, 'exp': 1750624952}
+2025-06-22 17:17:13,693 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 17:17:19,581 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '962262f5-b6dd-4ed0-a0ae-7d053d2e7ccc', 'iat': 1750623439, 'exp': 1750625239}
+2025-06-22 17:17:19,584 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 17:17:19,593 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '962262f5-b6dd-4ed0-a0ae-7d053d2e7ccc', 'iat': 1750623439, 'exp': 1750625239}
+2025-06-22 17:17:19,596 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 17:17:27,937 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'c5a3d081-5902-4a72-b4e8-416b900fe58a', 'iat': 1750623447, 'exp': 1750625247}
+2025-06-22 17:17:27,940 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 17:17:27,947 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'c5a3d081-5902-4a72-b4e8-416b900fe58a', 'iat': 1750623447, 'exp': 1750625247}
+2025-06-22 17:17:27,949 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 17:21:09,723 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'c5a3d081-5902-4a72-b4e8-416b900fe58a', 'iat': 1750623447, 'exp': 1750625247}
+2025-06-22 17:21:09,725 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 17:21:09,733 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'c5a3d081-5902-4a72-b4e8-416b900fe58a', 'iat': 1750623447, 'exp': 1750625247}
+2025-06-22 17:21:09,736 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 19:33:23,205 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0ecfd219-870c-4507-907b-6999f4988940', 'iat': 1750631603, 'exp': 1750633403}
+2025-06-22 19:33:23,213 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 19:33:23,224 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0ecfd219-870c-4507-907b-6999f4988940', 'iat': 1750631603, 'exp': 1750633403}
+2025-06-22 19:33:23,227 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 19:33:40,486 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0ecfd219-870c-4507-907b-6999f4988940', 'iat': 1750631603, 'exp': 1750633403}
+2025-06-22 19:33:40,498 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0ecfd219-870c-4507-907b-6999f4988940', 'iat': 1750631603, 'exp': 1750633403}
+2025-06-22 19:33:40,499 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0ecfd219-870c-4507-907b-6999f4988940', 'iat': 1750631603, 'exp': 1750633403}
+2025-06-22 19:33:40,499 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0ecfd219-870c-4507-907b-6999f4988940', 'iat': 1750631603, 'exp': 1750633403}
+2025-06-22 19:33:40,514 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0ecfd219-870c-4507-907b-6999f4988940', 'iat': 1750631603, 'exp': 1750633403}
+2025-06-22 19:33:40,515 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0ecfd219-870c-4507-907b-6999f4988940', 'iat': 1750631603, 'exp': 1750633403}
+2025-06-22 19:35:50,276 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0ecfd219-870c-4507-907b-6999f4988940', 'iat': 1750631603, 'exp': 1750633403}
+2025-06-22 19:35:50,305 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 19:35:52,307 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0ecfd219-870c-4507-907b-6999f4988940', 'iat': 1750631603, 'exp': 1750633403}
+2025-06-22 19:35:52,310 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 19:37:16,929 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0ecfd219-870c-4507-907b-6999f4988940', 'iat': 1750631603, 'exp': 1750633403}
+2025-06-22 19:37:16,932 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 19:37:18,977 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0ecfd219-870c-4507-907b-6999f4988940', 'iat': 1750631603, 'exp': 1750633403}
+2025-06-22 19:37:18,980 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 19:37:31,155 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0ecfd219-870c-4507-907b-6999f4988940', 'iat': 1750631603, 'exp': 1750633403}
+2025-06-22 19:37:31,158 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 19:37:33,196 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0ecfd219-870c-4507-907b-6999f4988940', 'iat': 1750631603, 'exp': 1750633403}
+2025-06-22 19:37:33,199 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 19:37:43,620 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0ecfd219-870c-4507-907b-6999f4988940', 'iat': 1750631603, 'exp': 1750633403}
+2025-06-22 19:37:43,622 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 19:37:45,639 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '0ecfd219-870c-4507-907b-6999f4988940', 'iat': 1750631603, 'exp': 1750633403}
+2025-06-22 19:37:45,642 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 19:38:50,167 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '8ab8d0d2-2505-493a-9bd5-31c390f11aa4', 'iat': 1750631928, 'exp': 1750633728}
+2025-06-22 19:38:50,170 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 19:38:52,206 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '8ab8d0d2-2505-493a-9bd5-31c390f11aa4', 'iat': 1750631928, 'exp': 1750633728}
+2025-06-22 19:38:52,209 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 19:43:02,233 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '8ab8d0d2-2505-493a-9bd5-31c390f11aa4', 'iat': 1750631928, 'exp': 1750633728}
+2025-06-22 19:43:02,236 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 19:43:04,268 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '8ab8d0d2-2505-493a-9bd5-31c390f11aa4', 'iat': 1750631928, 'exp': 1750633728}
+2025-06-22 19:43:04,270 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 19:52:07,004 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b9a45c5d-f4cc-442d-853d-7e941a7b331e', 'iat': 1750632725, 'exp': 1750634525}
+2025-06-22 19:52:07,007 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 19:52:09,039 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b9a45c5d-f4cc-442d-853d-7e941a7b331e', 'iat': 1750632725, 'exp': 1750634525}
+2025-06-22 19:52:09,041 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 19:52:14,588 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b9a45c5d-f4cc-442d-853d-7e941a7b331e', 'iat': 1750632725, 'exp': 1750634525}
+2025-06-22 19:52:14,590 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 19:52:16,627 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b9a45c5d-f4cc-442d-853d-7e941a7b331e', 'iat': 1750632725, 'exp': 1750634525}
+2025-06-22 19:52:16,630 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-22 19:52:46,911 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b9a45c5d-f4cc-442d-853d-7e941a7b331e', 'iat': 1750632725, 'exp': 1750634525}
+2025-06-22 19:52:46,913 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 19:52:48,939 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b9a45c5d-f4cc-442d-853d-7e941a7b331e', 'iat': 1750632725, 'exp': 1750634525}
+2025-06-22 19:52:48,942 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-22 19:52:54,317 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b9a45c5d-f4cc-442d-853d-7e941a7b331e', 'iat': 1750632725, 'exp': 1750634525}
+2025-06-22 19:52:54,317 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b9a45c5d-f4cc-442d-853d-7e941a7b331e', 'iat': 1750632725, 'exp': 1750634525}
+2025-06-22 19:52:54,317 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b9a45c5d-f4cc-442d-853d-7e941a7b331e', 'iat': 1750632725, 'exp': 1750634525}
+2025-06-22 19:52:56,356 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b9a45c5d-f4cc-442d-853d-7e941a7b331e', 'iat': 1750632725, 'exp': 1750634525}
+2025-06-22 19:52:56,386 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b9a45c5d-f4cc-442d-853d-7e941a7b331e', 'iat': 1750632725, 'exp': 1750634525}
+2025-06-22 19:52:56,420 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b9a45c5d-f4cc-442d-853d-7e941a7b331e', 'iat': 1750632725, 'exp': 1750634525}
+2025-06-23 20:00:53,408 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'db15bd5f-159b-42de-a703-c6b4ee41de9c', 'iat': 1750719651, 'exp': 1750721451}
+2025-06-23 20:00:53,413 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:00:55,447 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'db15bd5f-159b-42de-a703-c6b4ee41de9c', 'iat': 1750719651, 'exp': 1750721451}
+2025-06-23 20:00:55,450 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:01:02,792 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'db15bd5f-159b-42de-a703-c6b4ee41de9c', 'iat': 1750719651, 'exp': 1750721451}
+2025-06-23 20:01:02,812 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-23 20:01:04,822 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'db15bd5f-159b-42de-a703-c6b4ee41de9c', 'iat': 1750719651, 'exp': 1750721451}
+2025-06-23 20:01:04,825 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-23 20:01:17,740 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'db15bd5f-159b-42de-a703-c6b4ee41de9c', 'iat': 1750719651, 'exp': 1750721451}
+2025-06-23 20:01:17,742 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-23 20:01:17,750 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'db15bd5f-159b-42de-a703-c6b4ee41de9c', 'iat': 1750719651, 'exp': 1750721451}
+2025-06-23 20:01:17,753 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-23 20:01:18,415 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'db15bd5f-159b-42de-a703-c6b4ee41de9c', 'iat': 1750719651, 'exp': 1750721451}
+2025-06-23 20:01:18,418 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:01:18,426 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'db15bd5f-159b-42de-a703-c6b4ee41de9c', 'iat': 1750719651, 'exp': 1750721451}
+2025-06-23 20:01:18,429 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:01:21,610 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'db15bd5f-159b-42de-a703-c6b4ee41de9c', 'iat': 1750719651, 'exp': 1750721451}
+2025-06-23 20:01:21,612 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-23 20:01:21,620 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'db15bd5f-159b-42de-a703-c6b4ee41de9c', 'iat': 1750719651, 'exp': 1750721451}
+2025-06-23 20:01:21,624 - INFO - GeneralFunctions - 12 funciones cargadas desde MainFunctions.json
+2025-06-23 20:04:12,352 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'db15bd5f-159b-42de-a703-c6b4ee41de9c', 'iat': 1750719651, 'exp': 1750721451}
+2025-06-23 20:04:12,355 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:04:12,362 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'db15bd5f-159b-42de-a703-c6b4ee41de9c', 'iat': 1750719651, 'exp': 1750721451}
+2025-06-23 20:04:12,365 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:28:14,353 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b178dc7c-e23e-487b-a06b-0e922784ff05', 'iat': 1750721294, 'exp': 1750723094}
+2025-06-23 20:28:14,356 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:28:14,363 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b178dc7c-e23e-487b-a06b-0e922784ff05', 'iat': 1750721294, 'exp': 1750723094}
+2025-06-23 20:28:14,365 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:28:24,823 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b178dc7c-e23e-487b-a06b-0e922784ff05', 'iat': 1750721294, 'exp': 1750723094}
+2025-06-23 20:28:24,823 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b178dc7c-e23e-487b-a06b-0e922784ff05', 'iat': 1750721294, 'exp': 1750723094}
+2025-06-23 20:28:24,824 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b178dc7c-e23e-487b-a06b-0e922784ff05', 'iat': 1750721294, 'exp': 1750723094}
+2025-06-23 20:28:24,840 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b178dc7c-e23e-487b-a06b-0e922784ff05', 'iat': 1750721294, 'exp': 1750723094}
+2025-06-23 20:28:24,846 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b178dc7c-e23e-487b-a06b-0e922784ff05', 'iat': 1750721294, 'exp': 1750723094}
+2025-06-23 20:28:24,846 - INFO - auth - Payload decodificado: {'id': 1, 'jti': 'b178dc7c-e23e-487b-a06b-0e922784ff05', 'iat': 1750721294, 'exp': 1750723094}
+2025-06-23 20:32:25,142 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '9c38e823-5016-48ed-a156-9b48d94b08ac', 'iat': 1750721545, 'exp': 1750723345}
+2025-06-23 20:32:25,145 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:32:25,154 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '9c38e823-5016-48ed-a156-9b48d94b08ac', 'iat': 1750721545, 'exp': 1750723345}
+2025-06-23 20:32:25,157 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:36:00,628 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '33986b4a-f563-44dd-9679-3e90759fb066', 'iat': 1750721760, 'exp': 1750723560}
+2025-06-23 20:36:00,632 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:36:00,640 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '33986b4a-f563-44dd-9679-3e90759fb066', 'iat': 1750721760, 'exp': 1750723560}
+2025-06-23 20:36:00,642 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:36:02,736 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '33986b4a-f563-44dd-9679-3e90759fb066', 'iat': 1750721760, 'exp': 1750723560}
+2025-06-23 20:36:02,736 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '33986b4a-f563-44dd-9679-3e90759fb066', 'iat': 1750721760, 'exp': 1750723560}
+2025-06-23 20:36:02,753 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '33986b4a-f563-44dd-9679-3e90759fb066', 'iat': 1750721760, 'exp': 1750723560}
+2025-06-23 20:36:02,754 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '33986b4a-f563-44dd-9679-3e90759fb066', 'iat': 1750721760, 'exp': 1750723560}
+2025-06-23 20:36:02,766 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '33986b4a-f563-44dd-9679-3e90759fb066', 'iat': 1750721760, 'exp': 1750723560}
+2025-06-23 20:36:02,766 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '33986b4a-f563-44dd-9679-3e90759fb066', 'iat': 1750721760, 'exp': 1750723560}
+2025-06-23 20:39:44,233 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '61853a92-4a2a-41fb-8d25-1b833a803cae', 'iat': 1750721984, 'exp': 1750723784}
+2025-06-23 20:39:44,237 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:39:44,244 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '61853a92-4a2a-41fb-8d25-1b833a803cae', 'iat': 1750721984, 'exp': 1750723784}
+2025-06-23 20:39:44,247 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:44:13,480 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:44:13,482 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:44:13,491 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:44:13,494 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:44:23,206 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:44:23,216 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:44:23,242 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:44:23,246 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:44:23,255 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:44:23,258 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:44:58,021 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:44:58,034 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:44:58,059 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:44:58,063 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:44:58,072 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:44:58,075 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:44:59,747 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:44:59,756 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:44:59,786 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:44:59,790 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:44:59,798 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:44:59,801 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:45:01,531 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:45:01,533 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:45:01,536 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:45:01,551 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:45:01,551 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:45:01,551 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:45:03,446 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:45:03,455 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:45:03,487 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:45:03,491 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:45:03,500 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '2e65022b-22ac-4c24-91cf-882432b33d58', 'iat': 1750722253, 'exp': 1750724053}
+2025-06-23 20:45:03,820 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:46:42,067 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '58e23cbd-d755-445c-9f82-24cabae77710', 'iat': 1750722402, 'exp': 1750724202}
+2025-06-23 20:46:42,070 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:46:42,077 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '58e23cbd-d755-445c-9f82-24cabae77710', 'iat': 1750722402, 'exp': 1750724202}
+2025-06-23 20:46:42,080 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:48:58,844 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '58e23cbd-d755-445c-9f82-24cabae77710', 'iat': 1750722402, 'exp': 1750724202}
+2025-06-23 20:48:58,845 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '58e23cbd-d755-445c-9f82-24cabae77710', 'iat': 1750722402, 'exp': 1750724202}
+2025-06-23 20:48:58,845 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '58e23cbd-d755-445c-9f82-24cabae77710', 'iat': 1750722402, 'exp': 1750724202}
+2025-06-23 20:48:58,858 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '58e23cbd-d755-445c-9f82-24cabae77710', 'iat': 1750722402, 'exp': 1750724202}
+2025-06-23 20:48:58,858 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '58e23cbd-d755-445c-9f82-24cabae77710', 'iat': 1750722402, 'exp': 1750724202}
+2025-06-23 20:48:58,859 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '58e23cbd-d755-445c-9f82-24cabae77710', 'iat': 1750722402, 'exp': 1750724202}
+2025-06-23 20:55:46,969 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '58e23cbd-d755-445c-9f82-24cabae77710', 'iat': 1750722402, 'exp': 1750724202}
+2025-06-23 20:55:46,977 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '58e23cbd-d755-445c-9f82-24cabae77710', 'iat': 1750722402, 'exp': 1750724202}
+2025-06-23 20:55:47,307 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '58e23cbd-d755-445c-9f82-24cabae77710', 'iat': 1750722402, 'exp': 1750724202}
+2025-06-23 20:55:47,310 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:55:47,318 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '58e23cbd-d755-445c-9f82-24cabae77710', 'iat': 1750722402, 'exp': 1750724202}
+2025-06-23 20:55:47,321 - INFO - GeneralFunctions - 4 funciones cargadas desde InventarioMainFunctions.json
+2025-06-23 20:55:48,528 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '58e23cbd-d755-445c-9f82-24cabae77710', 'iat': 1750722402, 'exp': 1750724202}
+2025-06-23 20:55:48,533 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '58e23cbd-d755-445c-9f82-24cabae77710', 'iat': 1750722402, 'exp': 1750724202}
+2025-06-23 20:55:48,534 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '58e23cbd-d755-445c-9f82-24cabae77710', 'iat': 1750722402, 'exp': 1750724202}
+2025-06-23 20:55:48,550 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '58e23cbd-d755-445c-9f82-24cabae77710', 'iat': 1750722402, 'exp': 1750724202}
+2025-06-23 20:55:48,550 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '58e23cbd-d755-445c-9f82-24cabae77710', 'iat': 1750722402, 'exp': 1750724202}
+2025-06-23 20:55:48,550 - INFO - auth - Payload decodificado: {'id': 1, 'jti': '58e23cbd-d755-445c-9f82-24cabae77710', 'iat': 1750722402, 'exp': 1750724202}
