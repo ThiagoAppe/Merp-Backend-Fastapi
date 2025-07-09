@@ -1,2 +1,15 @@
 venv/
 .env
+
+loggin/History/app.log
+
+**/__pycache__/
+app/__pycache__/
+app/models/__pycache__/
+
+# Ignorar carpetas de caché de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar todos los .pyc en cualquier parte del proyecto
+**/*.pyc

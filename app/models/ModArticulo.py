@@ -12,9 +12,10 @@ class Articulo(Base):
     idFamilia = Column(Integer, ForeignKey("familias.id"))
     idTipoArticulo = Column(Integer, ForeignKey("tiposarticulo.id"))
     idUnidadMedida = Column(Integer, ForeignKey("unidadesmedida.id"))
+    idUsuario = Column(Integer, ForeignKey("usuario.id"))  # Nuevo campo
     peso = Column(DECIMAL(10, 2))
 
     familia = relationship("Familia", back_populates="articulos")
     tipo_articulo = relationship("TipoArticulo", back_populates="articulos")
     unidadMedida = relationship("UnidadMedida", back_populates="articulos")
-
+    usuario = relationship("Usuario", back_populates="articulos")  # Relación
